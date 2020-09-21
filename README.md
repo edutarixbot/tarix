@@ -9,7 +9,6 @@ Tarix o'rganamiz
 
 ===========================================================================================================================================
 
-Made with @educoder
 
 bot creator from educoder team: Akhmedov Khumoyun
 
@@ -25,7 +24,7 @@ Abdulbosit Sharifjonov
 
 contact us: @prideoftheworld
 
-Join educoder in telegram!
+Join @educoder in telegram!
 
 O'z botingizni xohlaysizmi? Unda bu yerga: @botorders_bot
 
